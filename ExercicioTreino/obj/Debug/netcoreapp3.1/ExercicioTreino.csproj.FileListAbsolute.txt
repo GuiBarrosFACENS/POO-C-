@@ -1,0 +1,13 @@
+E:\POO C#\ExercicioTreino\bin\Debug\netcoreapp3.1\ExercicioTreino.exe
+E:\POO C#\ExercicioTreino\bin\Debug\netcoreapp3.1\ExercicioTreino.deps.json
+E:\POO C#\ExercicioTreino\bin\Debug\netcoreapp3.1\ExercicioTreino.runtimeconfig.json
+E:\POO C#\ExercicioTreino\bin\Debug\netcoreapp3.1\ExercicioTreino.runtimeconfig.dev.json
+E:\POO C#\ExercicioTreino\bin\Debug\netcoreapp3.1\ExercicioTreino.dll
+E:\POO C#\ExercicioTreino\bin\Debug\netcoreapp3.1\ExercicioTreino.pdb
+E:\POO C#\ExercicioTreino\obj\Debug\netcoreapp3.1\ExercicioTreino.csprojAssemblyReference.cache
+E:\POO C#\ExercicioTreino\obj\Debug\netcoreapp3.1\ExercicioTreino.AssemblyInfoInputs.cache
+E:\POO C#\ExercicioTreino\obj\Debug\netcoreapp3.1\ExercicioTreino.AssemblyInfo.cs
+E:\POO C#\ExercicioTreino\obj\Debug\netcoreapp3.1\ExercicioTreino.csproj.CoreCompileInputs.cache
+E:\POO C#\ExercicioTreino\obj\Debug\netcoreapp3.1\ExercicioTreino.dll
+E:\POO C#\ExercicioTreino\obj\Debug\netcoreapp3.1\ExercicioTreino.pdb
+E:\POO C#\ExercicioTreino\obj\Debug\netcoreapp3.1\ExercicioTreino.genruntimeconfig.cache
